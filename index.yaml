@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ibm-cp4d-dv-instance:
+  - apiVersion: v2
+    appVersion: 1.7.5
+    created: "2022-04-07T15:23:26.44254-04:00"
+    description: A Helm chart for Kubernetes
+    digest: e388d4717fd84cc6853f587e0d4a11f7d7a2a54cdcde250bac93b568cf7d0ed3
+    name: ibm-cp4d-dv-instance
+    type: application
+    urls:
+    - https://projectsbydevontesykes.github.io/helmfordv/ibm-cp4d-dv-instance-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-04-07T15:23:26.439802-04:00"
